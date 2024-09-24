@@ -19,7 +19,7 @@
 # 📖 Marvin <a name="about-project"></a>
 
 
-**Marvin** is a simple project to demonstrate my competence as a web developer by literally showcasing my development skills.
+**Marvin** is a simple project demonstrating my software development competence by showcasing my skills.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -43,12 +43,12 @@ This project is built with React
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-To visit my professional portfolio <a href="https://marvin-nyalik.vercel.app/"> click here</a>
+To visit my professional portfolio <a href="https://mvnprof.onrender.com/"> click here</a>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 To get a local copy up and running, follow these steps.
 1. Clone this repository
-   run `git clone https://github.com/marvin-nyalik/MarProf.git`
+   run `git clone https://github.com/marvin-nyalik/MvnProf.git`
 
 2. Open the project in a text editor
 3. Run `npm install`
@@ -56,7 +56,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+To run this project you need:
 
 1. Install git on your local computer
 > Find git installation details here https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
@@ -86,7 +86,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project follow me on github for more amazing projects
+If you like this project follow me on GitHub for more amazing projects
 and ideas
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
