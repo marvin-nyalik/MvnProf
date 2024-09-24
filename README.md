@@ -43,7 +43,7 @@ This project is built with React
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-To visit my professional portfolio <a href="https://mvnprof.onrender.com/"> click here</a>
+To visit my professional portfolio <a href="https://otieno-marvin-me.onrender.com/"> click here</a>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 To get a local copy up and running, follow these steps.
